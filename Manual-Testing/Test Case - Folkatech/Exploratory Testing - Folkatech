@@ -1,0 +1,23 @@
+**A. Exploratory Testing Method for New Features**
+
+When conducting exploratory testing on new features without documentation, I will follow the approach below:
+
+1. **Understand the Feature from the User's Perspective**:
+   I will try to comprehend the purpose and functionality of the feature by using it as an ordinary user would.
+
+2. **Use Time-Limited Sessions**:
+   I will conduct exploration during short sessions (e.g., 15-30 minutes) to identify as many potential test scenarios as possible. During exploration, I will quickly and efficiently note down any bugs, limitations, and the feature's response under various input conditions.
+
+3. **Analyze Potential Edge Cases**:
+   I will try unusual inputs or uncommon situations to see how the feature handles such conditions.
+
+**B. Three Things Checked During Exploratory Testing**
+
+1. **System Response to Diverse Inputs**:
+   I will try entering various inputs (both valid and invalid) to check how the feature responds. This includes empty inputs, special characters, text length limits, and incorrect data formats.
+
+2. **Core Functionality of the Feature**:
+   Testing whether the feature functions as expected, such as checking if any buttons do not respond or if the feature performs its tasks correctly.
+
+3. **Compliance with User Interface and Usability**:
+   Ensuring the feature's appearance aligns with the application's UI style and checking whether elements are easily accessible, readable, and user-friendly.
